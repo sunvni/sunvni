@@ -6,5 +6,8 @@
             "email": "sunvni@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "dev-master"
+    }
 }
